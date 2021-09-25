@@ -17,3 +17,5 @@ packages/debugger/.tmp
 
 # @truffle/contract
 packages/contract/dist
+
+.env
