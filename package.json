@@ -1,0 +1,14 @@
+{
+  "name": "ico-demo",
+  "version": "1.0.0",
+  "description": "Solidity Project for ICO demo",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Beno Sam Binu",
+  "license": "ISC"
+}
