@@ -10,5 +10,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Beno Sam Binu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.2.2",
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.0",
+    "bn.js": "^5.2.0",
+    "dotenv": "^10.0.0"
+  }
 }
